@@ -30,7 +30,7 @@ And, as I count it there are actually only a few meaningful differences, as foll
 
 I've no idea how many supply points are in these areas, but there are numerous cities and factories in these regions that would certainly consume a decent amount of electricity.
 
-![Areas of a map in Japan, with grid region deviations highlighted](image.png)
+![Areas of a map in Japan, with grid region deviations highlighted](deviating-regions-map-example.png)
 
 > All the areas I'm aware of that I need to account for, the light colored boxes are reference clips from Google maps
 
